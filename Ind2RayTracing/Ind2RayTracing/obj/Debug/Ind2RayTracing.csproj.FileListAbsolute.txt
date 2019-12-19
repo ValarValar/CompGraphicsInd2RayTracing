@@ -1,0 +1,9 @@
+D:\DeskTop\Мехмат\Графика\Ind2RayTracing\Ind2RayTracing\bin\Debug\Ind2RayTracing.exe.config
+D:\DeskTop\Мехмат\Графика\Ind2RayTracing\Ind2RayTracing\bin\Debug\Ind2RayTracing.exe
+D:\DeskTop\Мехмат\Графика\Ind2RayTracing\Ind2RayTracing\bin\Debug\Ind2RayTracing.pdb
+D:\DeskTop\Мехмат\Графика\Ind2RayTracing\Ind2RayTracing\obj\Debug\Ind2RayTracing.csprojAssemblyReference.cache
+D:\DeskTop\Мехмат\Графика\Ind2RayTracing\Ind2RayTracing\obj\Debug\Ind2RayTracing.Properties.Resources.resources
+D:\DeskTop\Мехмат\Графика\Ind2RayTracing\Ind2RayTracing\obj\Debug\Ind2RayTracing.csproj.GenerateResource.cache
+D:\DeskTop\Мехмат\Графика\Ind2RayTracing\Ind2RayTracing\obj\Debug\Ind2RayTracing.csproj.CoreCompileInputs.cache
+D:\DeskTop\Мехмат\Графика\Ind2RayTracing\Ind2RayTracing\obj\Debug\Ind2RayTracing.exe
+D:\DeskTop\Мехмат\Графика\Ind2RayTracing\Ind2RayTracing\obj\Debug\Ind2RayTracing.pdb
